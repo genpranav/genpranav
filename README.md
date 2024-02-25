@@ -1,7 +1,7 @@
 - 👋 Hi, I’m B.E.PRANAV KUMAAR
 - 👀 I’m interested in coding,webdev,sports,gaming,music,books,art ...
 - 🌱 I’m currently learning ML/AI @Amrita Vishwa Vidyapeetham,cmb
-- 📫 How to reach me : whatsapp me on 7795730144
+- 📫 How to reach me : whatsapp me on 8073455058 
 - ✔ using github to showcase my work and receive honest opinion.
 
 <!---
