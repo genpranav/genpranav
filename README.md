@@ -3,7 +3,9 @@
 **AI Engineer** building real-world applications with Generative AI and agentic systems, transforming ideas into useful products and experiences.
 
 *Python • Agentic & Multimodal Systems • Secure & Scalable Engineering*
+
 <br>
+
 📚 **Constantly exploring** new ideas, models, and tools.
 
 🚀 **Build fast, ship reliably**, and improve through real-world feedback.
@@ -20,8 +22,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pranav-kumaar" title="LinkedIn"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="38" height="38" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://x.com/bepranavkumaar1" title="X"><img src="https://img.icons8.com/fluency/48/twitterx--v1.png" width="38" height="38" alt="X"/></a>&nbsp;
-  <a href="mailto:genpranav@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/gmail.png" width="38" height="38" alt="Email"/></a>
+    <a href="mailto:genpranav@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/gmail.png" width="38" height="38" alt="Email"/></a>&nbsp;
+  <a href="https://x.com/bepranavkumaar1" title="X"><img src="https://img.icons8.com/fluency/48/twitterx--v1.png" width="38" height="38" alt="X"/></a>
 </p>
 
 <br>
